@@ -5,16 +5,16 @@ These are my first steps, if not in programming, then in Git for sure :)
 course __"Version Control with Git"__ on
 > learn.udacity.com
 
-<details><summary>Scrin</summary>
+<details><summary>Screenshot</summary>
 
 ![](images/finish-udacity-git-learn.jpg)
 
 </details>
 
-
 Previously I only knew 'git init', 'git commit -m "..."' and 'git push', 
 so now I found out about 'git log', 'git tag', 'git branch', 'git merge' and, 
 of course, 'git status'.
+
 ---
 ### Second step:
 
